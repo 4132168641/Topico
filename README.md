@@ -1,2 +1,6 @@
-# Topico
-el software esta desarrollador por el team developer Equipo Club de Estudios y el repositorio esta creado para optimizar el desarrollo
+# Topico_Epis
+admin:admin
+# Plantilla css, html, js
+Creditos a GuruAble
+https://technext.github.io/guruable2/
+
